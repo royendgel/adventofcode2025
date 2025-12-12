@@ -5,4 +5,4 @@ Doing the advent of code in rust.
 ### Puzzle 1
 #### Version 1
 Version 1: Quick and dirty, the challenge is more at the lock-safe dial.
-Version 2: I implemented modular arithmetic, in the version 1 I started with that approach, but had problem substracting. 
+Version 2: I implemented modular arithmetic, in the version 1 I started with that approach, but had problem substracting.
